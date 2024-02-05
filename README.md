@@ -1,3 +1,3 @@
-# scRNAseq-Analysis
+# RNAseq-Analysis
 
-Mostly R script for scRNAseq analysis using Seurat package.
+Mostly R script for RNAseq analysis using R packages such as Seurat
