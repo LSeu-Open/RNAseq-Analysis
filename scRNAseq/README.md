@@ -1,1 +1,1 @@
-# My classicalc scRNAseq analysis folder
+# My classic scRNAseq analysis folder
