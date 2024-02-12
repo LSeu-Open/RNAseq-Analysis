@@ -98,3 +98,10 @@ Mostly R script for RNAseq analysis using R packages such as Seurat
 
 </tr></table>   
 
+----------------------------------------------------
+
+# Package List
+- [Azimuth](https://github.com/satijalab/azimuth) - Azimuth is a Shiny app demonstrating a query-reference mapping algorithm for single-cell data.
+- [BPCells](https://bnprks.github.io/BPCells/) - BPCells is a package for high performance single cell analysis on RNA-seq and ATAC-seq datasets.
+- [Seurat](https://satijalab.org/seurat/) - Seurat is an R package designed for QC, analysis, and exploration of single-cell RNA-seq data.
+- [Signac](https://github.com/stuart-lab/signac) - Signac is a comprehensive R package for the analysis of single-cell chromatin data.
