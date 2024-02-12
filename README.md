@@ -6,7 +6,7 @@ Mostly R script for RNAseq analysis using R packages such as Seurat
 
 <div align="center">  
   
-# Packages used in my Workflow
+# Main Packages used in my Workflows
   
 <a href="https://satijalab.org/seurat/" target="_blank">  
 <img alt="Seurat" height="100px" src="https://satijalab.org/seurat/output/images/SeuratV5.png" />
