@@ -1,17 +1,18 @@
 # RNAseq-Analysis (In Progress)
 
-<div align="center">  
+<div align="left">  
   
-# Main Packages used in my Workflows
-  
-<a href="https://satijalab.org/seurat/">  <img alt="Seurat" height="100px" src="https://satijalab.org/seurat/output/images/SeuratV5.png" /></a>
-<a href="https://samuel-marsh.github.io/scCustomize/index.html" target="_blank">  <img alt="scCustomize" height="100px" src="https://samuel-marsh.github.io/scCustomize/reference/figures/scCustomize_Logo.svg" /></a>
-<a href="https://github.com/jinworks/CellChat" target="_blank">  <img alt="Cellchat" height="100px" src="https://github.com/jinworks/CellChat/blob/main/CellChat_Logo.png" /></a>
-<a href="https://github.com/BayraktarLab/cell2location" target="_blank">  <img alt="cell2location" height="100px" src="https://raw.githubusercontent.com/BayraktarLab/cell2location/master/docs/logo.svg" /></a>
+# Main Packages
 
-</div>
+- [Azimuth](https://github.com/satijalab/azimuth) - Azimuth is a Shiny app demonstrating a query-reference mapping algorithm for single-cell data.
+- [BPCells](https://bnprks.github.io/BPCells/) - BPCells is a package for high performance single cell analysis on RNA-seq and ATAC-seq datasets.
+- [Cell2location](https://github.com/BayraktarLab/cell2location) - Cell2location is a principled Bayesian model that can resolve fine-grained cell types in spatial transcriptomic data and create comprehensive cellular maps of diverse tissues.
+- [Cellchat](https://github.com/jinworks/CellChat) - CellChat is an R package designed for inference, analysis, and visualization of cell-cell communication from single-cell and spatially resolved transcriptomics. 
+- [scCustomize](https://samuel-marsh.github.io/scCustomize/index.html) - scCustomize is an R package with collection of functions created and/or curated to aid in the visualization and analysis of single-cell data using R
+- [Seurat](https://satijalab.org/seurat/) - Seurat is an R package designed for QC, analysis, and exploration of single-cell RNA-seq data.
+- [Signac](https://github.com/stuart-lab/signac) - Signac is a comprehensive R package for the analysis of single-cell chromatin data.
 
-----------------------------------------------------
+# Workflows
 
 <table>
 <tr>
@@ -85,11 +86,3 @@
 </td>
 
 </tr></table>   
-
-----------------------------------------------------
-
-# Package List
-- [Azimuth](https://github.com/satijalab/azimuth) - Azimuth is a Shiny app demonstrating a query-reference mapping algorithm for single-cell data.
-- [BPCells](https://bnprks.github.io/BPCells/) - BPCells is a package for high performance single cell analysis on RNA-seq and ATAC-seq datasets.
-- [Seurat](https://satijalab.org/seurat/) - Seurat is an R package designed for QC, analysis, and exploration of single-cell RNA-seq data.
-- [Signac](https://github.com/stuart-lab/signac) - Signac is a comprehensive R package for the analysis of single-cell chromatin data.
