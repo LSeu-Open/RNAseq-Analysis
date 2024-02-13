@@ -1,10 +1,6 @@
 # RNAseq-Analysis (In Progress)
 
 <div align="center">  
-Mostly R script for RNAseq analysis using R packages such as Seurat
-</div>
-
-<div align="center">  
   
 # Main Packages used in my Workflows
   
